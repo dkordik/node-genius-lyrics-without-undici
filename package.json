@@ -19,8 +19,8 @@
     },
     "homepage": "https://genius-lyrics.js.org",
     "dependencies": {
-        "node-html-parser": "^6.1.9",
-        "undici": "^5.24.0"
+        "axios": "^1.6.2",
+        "node-html-parser": "^6.1.9"
     },
     "devDependencies": {
         "@types/node": "^20.6.0",
