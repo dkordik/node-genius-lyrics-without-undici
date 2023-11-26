@@ -13,6 +13,9 @@
     },
     "repository": "https://github.com/dkordik/node-genius-lyrics-without-undici.git",
     "author": "ZYROUGE",
+    "contributors": [
+        "dkordik"
+    ],
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/zyrouge/node-genius-lyrics/issues"
